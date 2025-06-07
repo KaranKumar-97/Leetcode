@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KaranKumar-97/Leetcode/tree/master/0043-multiply-strings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaranKumar-97/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Greedy
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
