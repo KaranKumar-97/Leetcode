@@ -1,15 +1,23 @@
 class Solution {
 public:
-    vector<int> lexicalOrder(int n) {
-        vector<string> v;
-        vector<int> ans;
+    void solve(int n,int num,vector<int> &ans){
+        if(num>n) return;
 
-        for(int i=1;i<=n;i++){
-            v.push_back(to_string(i));
+        ans.push_back(num); 
+
+        for(int i=0;i<=9;i++){            
+            solve(n,num*10+i,ans);                        
+        }
+    }
+
+    vector<int> lexicalOrder(int n) {
+        vector<int> ans; 
+
+        int i=1;
+        while(i<=9 && i<=n){
+            solve(n,i++,ans);
         }
 
-        sort(v.begin(),v.end());
-        for(auto x:v) ans.push_back(stoi(x));
-        return ans;
+        return ans;        
     }
 };
