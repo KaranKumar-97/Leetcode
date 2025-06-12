@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/KaranKumar-97/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Array
+|  |
+| ------- |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KaranKumar-97/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 <!---LeetCode Topics End-->
