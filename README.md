@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/KaranKumar-97/Leetcode/tree/master/0043-multiply-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranKumar-97/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/KaranKumar-97/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranKumar-97/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/KaranKumar-97/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranKumar-97/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
